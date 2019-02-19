@@ -7,7 +7,7 @@
     "test": "standard --fix && mocha"
   },
   "keywords": ["node", "javascript", "time until", "time since"],
-  "author": "",
+  "author": "John Beech",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",

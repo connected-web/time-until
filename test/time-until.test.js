@@ -11,7 +11,7 @@ function test (input, expected, description) {
   })
 }
 
-describe('Interpret Date', () => {
+describe('Time Until', () => {
   describe('No change', () => {
     test('Sun, 12 Feb 2017 23:08:56 GMT', 'now')
   })

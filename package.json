@@ -6,7 +6,12 @@
   "scripts": {
     "test": "standard --fix && mocha"
   },
-  "keywords": ["node", "javascript", "time until", "time since"],
+  "keywords": [
+    "node",
+    "javascript",
+    "time until",
+    "time since"
+  ],
   "author": "John Beech",
   "license": "ISC",
   "devDependencies": {
